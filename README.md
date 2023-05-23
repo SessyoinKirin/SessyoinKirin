@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Chen;I'm+23+years+old;I'm+chinese+from+Brazil;I'm+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SessyoinKirin&bg_color=0d1117&color=A9A9A9&line=696969&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying in this moment:
